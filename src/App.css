@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-bg-start: #1a202c;
+    --color-bg-end: #2d3748;
+    --color-accent-primary: #3498db;
+    --color-accent-secondary: #2ecc71;
+    --color-accent-tertiary: #e74c3c;
+    --color-text-primary: #f7fafc;
+    --color-text-secondary: #a0aec0;
+    --color-neutral-100: #f7fafc;
+    --color-neutral-200: #edf2f7;
+    --color-neutral-300: #e2e8f0;
+    --color-neutral-400: #cbd5e0;
+    --color-neutral-500: #a0aec0;
+    --color-success: #2ecc71;
+    --color-warning: #f39c12;
+    --color-error: #e74c3c;
+    --color-info: #3498db;
+  }
+
+  html,
+  body {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .signature {
+    font-family: Agustina, sans-serif;
+  }
+
+  .active {
+    @apply text-text-primary border-b-2 border-accent-primary;
+  }
+
+  .deactive {
+    @apply text-text-secondary border-b-0;
+  }
+}
+
+@layer utilities {
+  .hover-gradient {
+    @apply transition-all duration-300;
+  }
+
+  .hover-gradient:hover {
+    @apply opacity-90;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-bg-end;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-accent-primary rounded-md;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  opacity: 0.8;
+}

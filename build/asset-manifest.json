@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2da6f8b6.css",
+    "main.js": "/static/js/main.d0a9b4f6.js",
+    "static/media/JWTbasics.png": "/static/media/JWTbasics.956edb019712f45c9d63.png",
+    "static/media/coding.gif": "/static/media/coding.18bcba89d4290c3f7580.gif",
+    "static/media/storeapi_1.png": "/static/media/storeapi_1.54c388b4c0df4ebcb962.png",
+    "static/media/portfolio.png": "/static/media/portfolio.b7716b7bfc60a9bc8291.png",
+    "static/media/port.png": "/static/media/port.ab734e948b2117ba6fc4.png",
+    "static/media/blog-app.png": "/static/media/blog-app.a1697d82887108b862b5.png",
+    "static/media/nodejs-logo.svg": "/static/media/nodejs-logo.4d8b9a0c5a604b6b68d3750273f913d6.svg",
+    "static/media/linux-logo.svg": "/static/media/linux-logo.1ae7229d28d57fb184b684dd6602cf64.svg",
+    "static/media/bootstrap-logo.svg": "/static/media/bootstrap-logo.402e1df73a2b0f2f6f51d88bd9ca642e.svg",
+    "static/media/reactjs-logo.svg": "/static/media/reactjs-logo.19df4041a7c4767ba9dfb2ef654fe858.svg",
+    "static/media/vs-code-logo.svg": "/static/media/vs-code-logo.3d8fea0ed9043ed9bf421bbdb507a21e.svg",
+    "static/media/git-logo.svg": "/static/media/git-logo.8ee81345da1c18b6cdb4bbe93b464810.svg",
+    "static/media/firebase-logo.svg": "/static/media/firebase-logo.8f69a13150a1594d8fb73df74f12b548.svg",
+    "static/media/javascript-logo.svg": "/static/media/javascript-logo.87a6904ffa190a37c824d0b73ff669c4.svg",
+    "static/media/github-logo.svg": "/static/media/github-logo.404ff619057c051258a81f63d464629e.svg",
+    "index.html": "/index.html",
+    "static/media/tailwind-logo.svg": "/static/media/tailwind-logo.973c73e85d4daa24b257ba20298716c4.svg",
+    "static/media/css-3-logo.svg": "/static/media/css-3-logo.315b8fdb9dbf75ae965b80bf368895cd.svg",
+    "static/media/html-5-logo.svg": "/static/media/html-5-logo.0107c93943a8f415b5db64ebb0a9d12d.svg",
+    "main.2da6f8b6.css.map": "/static/css/main.2da6f8b6.css.map",
+    "main.d0a9b4f6.js.map": "/static/js/main.d0a9b4f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da6f8b6.css",
+    "static/js/main.d0a9b4f6.js"
+  ]
+}
